@@ -1,5 +1,7 @@
 # Platformer Game
 
+![image](https://github.com/user-attachments/assets/8c2b889a-cbba-4720-b0da-ebdc16ed7ad5)
+
 A simple and fun platformer built with Pygame Zero. Jump on moving platforms, avoid enemies, and try to beat your best score!
 
 ## Features
@@ -45,3 +47,6 @@ README.md
 - The game saves your best score in `best_score.txt` (auto-created).
 
 Enjoy the game and feel free to fork or contribute!
+
+![image](https://github.com/user-attachments/assets/d7129558-e96a-4e25-9952-ace15af94a0b)
+
